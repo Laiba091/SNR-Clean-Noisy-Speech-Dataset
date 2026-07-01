@@ -18,6 +18,7 @@ Noisy speech generated at multiple SNR levels
 SNR range from -20 dB to +20 dB
 Environmental noise collected from DEMAND and UrbanSound8K-style noise sources
 Suitable for speech enhancement, denoising, speaker recognition, and audio robustness testing
+
 **SNR Levels**
 
 The noisy speech samples are generated at the following SNR levels:
@@ -25,10 +26,8 @@ The noisy speech samples are generated at the following SNR levels:
 -20 dB, -15 dB, -10 dB, -5 dB, 0 dB, 5 dB, 10 dB, 15 dB, 20 dB
 
 Negative SNR values represent highly noisy conditions, while positive SNR values represent cleaner speech conditions.
-Use Cases
-
-**This dataset can be used for:**
-
+**Use Cases**
+This dataset can be used for:
 Speech enhancement
 Audio denoising
 Speaker recognition
