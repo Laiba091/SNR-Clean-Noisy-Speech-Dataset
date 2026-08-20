@@ -10,6 +10,15 @@ The clean speech dataset was created using custom-recorded audio samples from ma
 
 The purpose of this dataset is to provide controlled clean and noisy speech samples for testing machine learning and deep learning models under different noise conditions.
 
+
+This dataset is associated with the research paper:
+Blind Speech SNR Estimation via Neural Speech Enhancement: An Enhance-and-Subtract Approach and Benchmark Against Classical Estimators
+## Research Paper
+
+[![Read Paper](https://img.shields.io/badge/Read%20Paper-Zenodo-blue?style=for-the-badge)](https://zenodo.org/records/21818814)
+
+The paper presents a neural speech enhancement-based Enhance-and-Subtract approach for blind Speech-to-Noise Ratio (SNR) estimation and evaluates its performance against classical SNR estimation methods. The dataset in this repository provides controlled clean and noisy speech samples across different SNR levels, supporting experiments and evaluation of SNR estimation, speech enhancement, and noise robustness.
+
 **Key Features**
 Clean speech samples from 8 speakers
 Male and female speaker recordings
@@ -36,3 +45,5 @@ Noise robustness testing
 Audio classification
 Machine learning and deep learning experiments
 Evaluation of models under different SNR levels
+
+
